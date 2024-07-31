@@ -1,6 +1,3 @@
-Certainly! Here’s a GitHub README.md file explaining the PowerShell script, formatted with Markdown to provide a clear and informative guide.
-
----
 
 # Wake-on-LAN Sender Script
 ![image](https://github.com/user-attachments/assets/bd06bf8b-42d0-4649-a6f1-d29a3d693bb0)
